@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Weatherly — Smart Weather Dashboard</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;600&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<div class="container">
+
+  <header>
+    <h1>Weatherly</h1>
+    <button class="toggle">🌙</button>
+  </header>
+
+  <div class="card">
+
+    <div class="search">
+      <input type="text" class="search-bar" placeholder="Search city...">
+      <button class="search-btn">Search</button>
+    </div>
+
+    <div class="weather loading">
+      <h2 class="city"></h2>
+      <div class="date"></div>
+      <h1 class="temp"></h1>
+
+      <div class="info-row">
+        <img class="icon" src="">
+        <div class="description"></div>
+      </div>
+
+      <div class="extra">
+        <span class="humidity"></span>
+        <span class="wind"></span>
+      </div>
+
+      <div class="forecast"></div>
+    </div>
+
+  </div>
+</div>
+
+<script src="script.js"></script>
+</body>
+</html>
