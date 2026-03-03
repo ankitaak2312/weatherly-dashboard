@@ -26,3 +26,4 @@ A responsive weather dashboard built using JavaScript and OpenWeatherMap API.
 3. Open index.html in browser
 
 ## Live Demo
+https://weatherly-dashboard-473jqizx7-ankitaak2312-1099s-projects.vercel.app/
