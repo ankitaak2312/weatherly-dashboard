@@ -27,3 +27,9 @@ A responsive weather dashboard built using JavaScript and OpenWeatherMap API.
 
 ## Live Demo
 https://weatherly-dashboard-473jqizx7-ankitaak2312-1099s-projects.vercel.app/
+
+## Screenshots
+<img width="878" height="897" alt="image" src="https://github.com/user-attachments/assets/3a66e753-2524-40e6-8245-8ef5e0923474" />
+<img width="803" height="869" alt="Screenshot 2026-03-03 165437" src="https://github.com/user-attachments/assets/48652b45-dc92-4844-aa07-373c3aed7f5f" />
+
+
